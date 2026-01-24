@@ -188,9 +188,9 @@ FROM (
 ) AS t
 WHERE c.candidate_id = t.rn;
 ```
-``` text
-## FIXING COMPANY NAMES
 
+## FIXING COMPANY NAMES
+``` text
 CREATE TEMP TABLE temp_company_names (
     company_name TEXT
 );
