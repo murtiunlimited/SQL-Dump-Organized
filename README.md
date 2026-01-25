@@ -241,8 +241,8 @@ Complex logic, multi-step reasoning, and business insights.
 
 ---
 
-## 🔴 EXPERT — Window Functions ( SOLUTIONS COMING SOON )
- 
+## 🔴 EXPERT — Window Functions
+
 Ranking, rolling metrics, and advanced analytics.
 
 - Rank candidates **within each country** by experience
